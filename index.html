@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tug of Mathematics</title>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<div class="container">
+
+    <header>
+        <h1>🪢 Tug of Mathematics</h1>
+    </header>
+
+    <div class="scoreboard">
+        <span>Olin: <span id="p1Score">0</span></span>
+        <span>AI: <span id="p2Score">0</span></span>
+    </div>
+
+    <div id="rope-container">
+        <div id="target-line-left"></div>
+        <div id="target-line-right"></div>
+        <div id="rope"></div>
+    </div>
+
+    <div id="game">
+        <div id="turn">Your Turn</div>
+        <div id="question"></div>
+
+        <input type="number" id="answer" placeholder="Answer">
+        <button id="submitBtn">Submit</button>
+
+        <p id="result"></p>
+        <p id="combo"></p>
+        <p id="warning">⚠️ Almost there!</p>
+    </div>
+
+</div>
+
+<!-- Sounds -->
+<audio id="correctSound" src="assets/sounds/correct.mp3"></audio>
+<audio id="wrongSound" src="assets/sounds/wrong.mp3"></audio>
+
+<script src="js/game.js"></script>
+</body>
+</html>
