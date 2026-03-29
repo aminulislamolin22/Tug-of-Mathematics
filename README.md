@@ -7,11 +7,11 @@
 
 TugOfMathematics/
 │
-├── index.html # Main HTML file
+├── index.html
 ├── css/
-│ └── styles.css # Stylesheet for UI
+│ └── styles.css
 ├── js/
-│ └── game.js # Game logic and animations
+│ └── game.js
 └── assets/
 └── sounds/
 ├── correct.mp3
