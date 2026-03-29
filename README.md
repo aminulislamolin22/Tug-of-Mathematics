@@ -5,17 +5,7 @@
 ---
 **## Project Structure**
 
-📂 TugOfMath/
-│
-├── index.html        # 📝 Main HTML file
-├── css/
-│   └── styles.css    # 🎨 Stylesheet
-├── js/
-│   └── game.js       # 💻 Game logic
-└── assets/
-    └── sounds/
-        ├── correct.mp3  # ✅ Correct sound
-        └── wrong.mp3    # ❌ Wrong sound
+it looks like that
 
 ---
 
@@ -36,6 +26,17 @@
 
 ## 📂 Project Structure
 
+📂 TugOfMath/
+│
+├── index.html
+├── css/
+│ └── styles.css
+├── js/
+│ └── game.js
+└── assets/
+└── sounds/
+├── correct.mp3
+└── wrong.mp3
 
 ## 🕹 How to Play
 
