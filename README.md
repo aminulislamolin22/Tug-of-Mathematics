@@ -3,11 +3,6 @@
 **Tug of Mathematics** is a browser-based educational game for children. Players solve math problems to "pull the rope" in a tug-of-war against an AI opponent. Correct answers move the rope toward the player, and faster answers increase the pull strength. The game tracks combos, rounds and series scores, making it engaging and competitive.
 
 ---
-**## Project Structure**
-
-it looks like that
-
----
 
 ## 🎮 Features
 
