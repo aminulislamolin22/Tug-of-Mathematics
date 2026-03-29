@@ -5,17 +5,16 @@
 ---
 **## Project Structure**
 
-TugOfMathematics/
-│
-├── index.html
-├── css/
-│ └── styles.css
-├── js/
-│ └── game.js
-└── assets/
-└── sounds/
-├── correct.mp3
-└── wrong.mp3
+TugOfMathematics
+  index.html
+  css/
+    styles.css
+  js/
+    game.js
+  assets/
+    sounds/
+      correct.mp3
+      wrong.mp3
 
 ---
 
